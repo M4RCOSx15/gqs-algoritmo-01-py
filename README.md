@@ -2,13 +2,17 @@
 Esse algoritmo possui uma função (analisar) que torna todas as letras minúsculas e remove tudo que não for letra ou numero.
 A função retorna um valor booleano que demonstra se a frase que está testada é igual a seu mesmo texto só que invertido(sendo esses valores verdadeiro ou falso).
 Em seguida, ele possui duas frases para serem testadas.
+ 
   texto1 = "A sacada da casa de cadasa"
+  
   texto2 = "Socorram-me, subi no ônibus em Marrocos"
 
 A primeira frase dará falso pois após ser invertida não dará a mesma frase.
+
 A segunda frase irá retornar verdadeiro ,pois sua invertida é igual a sua original.
 
 Ferramentas mínimas para rodar esse algoritmo: Cmd(ou VsCode), Python 3.14 e faça um clone ou fork deste repositório.
+
 Analise o código e desenvolva o README de acordo com o seu entendimento.
 
 
